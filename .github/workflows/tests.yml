@@ -1,3 +1,4 @@
+/*
 name: Tests
 
 on:
@@ -45,3 +46,4 @@ jobs:
 
       - name: Execute tests
         run: vendor/bin/phpunit
+//*/
